@@ -37,6 +37,7 @@ During this meeting we will split into teams and flush out our technology choice
 
 #### Daily Standup
 These will happen at 10AM daily. Each person will go in order, and tell the group:
+- As a group we will sort any tickets added to the inbox and move them to To Do if approved, then...
 1. What they worked on the previous day and if they have work that needs review
 2. What they intend to work on today
 3. If they are blocked by anything 
