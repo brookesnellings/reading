@@ -4,6 +4,8 @@ Congratulations and welcome to your first day at Blue Ocean! We are literally an
 
 Let's begin our tour (don't blink!)...
 
+![](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwibk_vTrf_gAhVDYK0KHZECAbkQjRx6BAgBEAU&url=https%3A%2F%2Flaughingsquid.com%2Fsea-is-for-cookie-a-mashup-of-cookie-monster-and-the-great-wave-off-kanagawa%2F&psig=AOvVaw1rhBTVamAj79RpBubEMQwj&ust=1552574696886362)
+
 ## Your Agile Process
 
 Expect this project to push you outside of your comfort zone. Welcome to your first day of life as a professional developer with a professional workflow.
