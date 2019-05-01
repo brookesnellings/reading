@@ -20,6 +20,7 @@ What does this mean tangibly? We are your new CEO, CTO, PM, and Product Owner. W
 During this time you will:
 * Choose a project with the help of the team
 * Create a backlog of tickets to work through during the week
+  - Example Board: https://trello.com/b/FcySKoaf/example-trello-project
 * Participate in a Sprint Planning and a Sprint Retrospective
 * Attend Daily Standup Meetings
 * Meet Acceptance Criteria determined by the stakeholders
