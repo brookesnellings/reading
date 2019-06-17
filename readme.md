@@ -1,10 +1,34 @@
+![](http://i.imgur.com/L3uCOf2.jpg?1)
+
+
+
+<!-- NARRATIVE -->
 # Welcome to Blue Ocean
 
-Congratulations and welcome to your first day at Blue Ocean! We are literally an underwater agile software development company.  
+Congratulations and welcome to your first day at Blue Ocean!
+
+At Blue Ocean we believe in the Agile software development process. You will be placed on a brand new project where we'll be using Agile tools to design, develop and deploy a finished product. 
 
 Let's begin our tour (don't blink!)...
 
-![](http://i.imgur.com/L3uCOf2.jpg?1)
+<!-- OBJECTIVES -->
+## Objectives
+
+* Apply Modern Agile Practices
+* Use Modern Github Workflows
+* Use Modern Development and Deployment Workflows
+
+<!-- CI/CD -->
+<!-- Code Reviews -->
+
+<!-- OVERALL DELIVERABLES -->
+<!-- DAILY DELIVERABLES -->
+
+<!-- GETTING STARTED -->
+
+<!-- Attend Kickoff and planning meetings -->
+<!-- Get your local machine setup: Organization Link -->
+
 
 ## Your Agile Process
 
