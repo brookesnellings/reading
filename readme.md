@@ -5,22 +5,21 @@
 
 Congratulations and welcome to your first day at Blue Ocean!
 
-At Blue Ocean we believe in the Agile software development process. You will be placed on a brand new project where we'll be using Agile tools to design, develop and deploy a finished product. 
+At Blue Ocean we believe in the Agile software development process. You will be placed on a brand new project where we'll be using Agile tools to design, develop and deploy a finished product.
 
 Let's begin our tour (don't blink!)...
-
 
 - [Welcome to Blue Ocean](#welcome-to-blue-ocean)
   - [Objectives](#objectives)
   - [Your Agile Process](#your-agile-process)
   - [Minimum requirements](#minimum-requirements)
   - [Meetings and Expectations](#meetings-and-expectations)
-      - [DAY 1 @ 9:30 - Kickoff and Ideation](#day-1--930---kickoff-and-ideation)
-      - [DAY 1 @ 10:30 - Sprint Planning and Proposal for Approval](#day-1--1030---sprint-planning-and-proposal-for-approval)
-      - [Day 1 Afternoon: Meet with user(stakeholder)](#day-1-afternoon-meet-with-userstakeholder)
-      - [Daily Standup](#daily-standup)
-      - [DAY 4: User Testing & Acceptance](#day-4-user-testing--acceptance)
-      - [DAY 7: Sprint Review](#day-7-sprint-review)
+  - [DAY 1 @ 9:30 - Kickoff and Ideation](#day-1--930---kickoff-and-ideation)
+  - [DAY 1 @ 10:30 - Sprint Planning and Proposal for Approval](#day-1--1030---sprint-planning-and-proposal-for-approval)
+  - [Day 1 Afternoon: Meet with user(stakeholder)](#day-1-afternoon-meet-with-userstakeholder)
+  - [Daily Standup](#daily-standup)
+  - [DAY 4: User Testing & Acceptance](#day-4-user-testing--acceptance)
+  - [DAY 7: Sprint Review](#day-7-sprint-review)
   - [ROLES](#roles)
     - [Product Manager (Elected by team)](#product-manager-elected-by-team)
       - [Oversee the ticketing system](#oversee-the-ticketing-system)
@@ -87,7 +86,7 @@ We're here to help guide you through this process...and potentially throw some w
 
 ## Meetings and Expectations
 
-#### DAY 1 @ 9:30 - Kickoff and Ideation
+## DAY 1 @ 9:30 - Kickoff and Ideation
 
 **Deliverables:**
 * Teams established around an idea
@@ -113,7 +112,7 @@ Everyone plays the role of full-stack developer in this agile enviroment, some f
 You cannot work on an idea of your own. Instead, if a team is working on your idea, you will have an additional role in that team as an end user.
 
 
-#### DAY 1 @ 10:30 - Sprint Planning and Proposal for Approval
+## DAY 1 @ 10:30 - Sprint Planning and Proposal for Approval
 
 **Deliverables:**
 * Project proposal
@@ -150,7 +149,7 @@ There should be no more than 3-5 primary features that consistute MVP for the pr
 
 **Do this as a team!**
 
-#### Day 1 Afternoon: Meet with user(stakeholder)
+## Day 1 Afternoon: Meet with user(stakeholder)
 
 **Deliverables:**
 
@@ -163,7 +162,7 @@ This is also the time to get specific user story questions answered and document
 
 Once all questions are answered, create user acceptance criteria.
 
-#### Daily Standup
+## Daily Standup
 These will happen at 10AM daily. As a group you will sort any tickets added to the inbox and move them to "To Do" if approved, then...
 
 Each person will go in order, and tell the group:
@@ -172,15 +171,13 @@ Each person will go in order, and tell the group:
 3. If they are blocked by anything 
 4. If they need to have a breakout with any individuals after standup for a specific question, blocker, or decision
 
-#### DAY 4: User Testing & Acceptance
+## DAY 4: User Testing & Acceptance
 During this meeting, your user will test your app to find bugs and areas where the work doesn't meet expectations. From there, users will work with the team to create some new tickets and point out areas for improvement.
 
-#### DAY 7: Sprint Review
+## DAY 7: Sprint Review
 The final piece of the puzzle. Each team will discuss what worked well, what didn't, areas for improvement, and where the project currently stands. The goal of this meeting is to leave with action items for the next iteration of the sprint both in terms of process and the product as a whole. 
 
 After the sprint review, it will be up to *you* as a team to make sure that your Github Readme is well-written and your team's code is clean and well-tested. Ultimately, you should feel comfortable and confident sharing this work with any employers who ask to see your recent projects or code.  
-
-GOOD LUCK and HAVE FUN!
 
 ## ROLES
 
