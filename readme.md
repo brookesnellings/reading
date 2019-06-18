@@ -16,7 +16,7 @@ Let's begin our tour (don't blink!)...
   - [Meetings and Expectations](#meetings-and-expectations)
   - [DAY 1 @ 9:30 - Kickoff and Ideation](#day-1--930---kickoff-and-ideation)
   - [DAY 1 @ 10:30 - Sprint Planning and Proposal for Approval](#day-1--1030---sprint-planning-and-proposal-for-approval)
-  - [Day 1 Afternoon: Meet with user(stakeholder)](#day-1-afternoon-meet-with-userstakeholder)
+  - [DAY 1 Afternoon: Meet with user(stakeholder)](#day-1-afternoon-meet-with-userstakeholder)
   - [Daily Standup](#daily-standup)
   - [DAY 4: User Testing & Acceptance](#day-4-user-testing--acceptance)
   - [DAY 7: Sprint Review](#day-7-sprint-review)
@@ -149,7 +149,7 @@ There should be no more than 3-5 primary features that consistute MVP for the pr
 
 **Do this as a team!**
 
-## Day 1 Afternoon: Meet with user(stakeholder)
+## DAY 1 Afternoon: Meet with user(stakeholder)
 
 **Deliverables:**
 
