@@ -80,7 +80,7 @@ You will be interacting with and playing various roles consistent with an agile 
 
 * Create a professional quality Github repo including a Readme, Test Coverage, and Clean Code.
 
-* Atleast 50% of the tickets you worked on should be done with a pair.
+* Atleast 50% of the tickets you worked on should be done with a pair. (Include [co-authors in your commits](https://help.github.com/en/articles/creating-a-commit-with-multiple-authors))
 
 We're here to help guide you through this process...and potentially throw some wrenches in as well ;)
 
