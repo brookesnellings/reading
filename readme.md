@@ -65,6 +65,7 @@ You will be interacting with and playing various roles consistent with an agile 
 
 * Create a backlog of tickets to work through during the week
   - [Example Board](https://trello.com/b/FcySKoaf/example-trello-project)
+  - [More ticketing information](https://docs.google.com/document/d/1i79WKUQuhc8nqrkZ-VHDbWCUL94H1WoIHBhV7K3Lbw8/edit?usp=sharing)
 
 * Participate in a Sprint Planning and a Sprint Retrospective
 
