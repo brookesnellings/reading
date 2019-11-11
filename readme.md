@@ -257,9 +257,9 @@ You will also faciliate and ensure team members are consistent with build tools,
 You will develop the initial wireframes that will help generate and ultimatey accompany the user stories.
 
 Design/Wireframe Resources:
-*[Figma](https://www.figma.com/)
-*[Figma Design School](https://www.figma.com/resources/learn-design/)
-*[Example- Chickpeach Design Sheet](https://www.figma.com/file/JnKGDEIyFEjL456ZDV97XL/chickpeach?node-id=0%3A1)
+* [Figma](https://www.figma.com/)
+* [Figma Design School](https://www.figma.com/resources/learn-design/)
+* [Example- Chickpeach Design Sheet](https://www.figma.com/file/JnKGDEIyFEjL456ZDV97XL/chickpeach?node-id=0%3A1)
 
 ### Developer (everyone)
 
